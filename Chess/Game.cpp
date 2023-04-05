@@ -204,7 +204,6 @@ void Game::move_figure()
 			int y = currFigure->body.getPosition().y / 100;
 			if (matrix[int(newPosition.x / 100)][int(newPosition.y / 100)] != 0)
 			{
-				std::cout << enemies.size() << std::endl;
 				for (auto figure : enemies)
 				{
 					int x = figure->body.getPosition().x / 100;

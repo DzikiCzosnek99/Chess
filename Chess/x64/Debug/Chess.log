@@ -1,1 +1,158 @@
-﻿  Chess.vcxproj -> E:\Projekty git\Szachy\ChessV4\Chess\x64\Debug\Chess.exe
+﻿  Game.cpp
+e:\projekty git\szachy\chessv4\chess\chess\figure.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+e:\projekty git\szachy\chessv4\chess\chess\figure.h(6): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+e:\projekty git\szachy\chessv4\chess\chess\promotion.h(4): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(86): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(87): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(90): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(91): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(112): warning C4244: "argument": konwersja z "T" do "std::array<std::array<int,8>,8>::size_type", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(112): warning C4244: "argument": konwersja z "T" do "std::array<int,8>::size_type", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(179): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(203): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(204): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(209): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(210): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(313): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(314): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(434): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(450): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(465): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(480): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(497): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(498): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(603): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(753): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(766): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(772): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(777): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\projekty git\szachy\chessv4\chess\chess\game.cpp(838): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Chess.vcxproj -> E:\Projekty git\Szachy\ChessV4\Chess\x64\Debug\Chess.exe
