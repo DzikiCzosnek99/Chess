@@ -1,4 +1,4 @@
 # Szachy cpp + SFML
-Gra szachy z użyciem biblioteki SFML. Program automatycznie wykrywa szachy, maty i pozwala na legalne ruchy. Możliwość cofania ruchów i przewijania w przód. Przetestowane na VS 17.
+Chess game using the SFML library. The program automatically detects chess, checkmates, and allows legal moves. Possibility of undoing moves and scrolling forward. Tested on VS 17.
 ![alt text](https://github.com/DzikiCzosnek99/Chess/blob/master/game.png?raw=true)
 
